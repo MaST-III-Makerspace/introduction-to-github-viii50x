@@ -1,0 +1,15 @@
+Git            -   Tracks changes you make to projects so you can return to older versions, or update newer versions at any time.
+GitHub         -   A platform that allows you to collaborate on projects and share them with everyone.
+Repository     -   The location of all of your files for the project that you're working on.
+Pull request   -   Invites other users to review changes to branches of projects.
+Merging        -   A user adding changes they made in a branch onto the final version of the project.
+Issue          -   Helps you keep track of tasks you'll work on for projects.
+Branches       -   Allow users to edit a section of a project that's separate from the final version.
+Cloning        -   Allows a user to make changes to their project on a different device.
+Forking        -   Similar to cloning, but used on another person's project instead of your own.
+
+I realized a little bit too late that I didn't have to put all of these notes into this GitHub file.
+
+One thing I learned about GitHub from the README is the ability to make separate versions of a project that you can add into the final version at a later time once you are finished making the changes.
+
+~ Jayden LaBrie ~
